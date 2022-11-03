@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 
-
+```javascript
 Jasmine Leal 
   pronouns: "She" | "Her",
   code: [Python, R, JavaScript, HTML5, SQL,VBA],
