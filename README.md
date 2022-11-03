@@ -2,22 +2,22 @@
 
 [![Linkedin: Jvilla00](https://img.shields.io/badge/-Jvilla00-pink?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/jasmine-leal-246622251/)
 [![GitHub Jvilla00](https://img.shields.io/github/followers/kconcepcion?logoColor=ff69b4&style=social)](https://github.com/jvilla00)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&labelColor=pink&link=https://i-dont-have-a-website-yet-but-comming-soon!.com/)](https://i-dont-have-a-website-yet-but-comming-soon!.com/)
+
 
 ### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Contact Me!
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;  lealj6481@gmail.com;
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little bit about me...  
 
-```javascript
-const Jasmine Leal = {
+
+Jasmine Leal 
   pronouns: "She" | "Her",
   code: [Python, R, JavaScript, HTML5, SQL,VBA],
   tools: [JupyterNotebook, R, Tableau, Excel, Pandas, SQL, PgAdmin],
-  educationArr: {
-                        Associates: "San Antonio College: Business Adminstration",
-                        Certification: "UTSA: Data Analytics Boot Camp"
-                      },
+  education:
+           Associates: "San Antonio College: Business Adminstration"
+           Certification: "UTSA: Data Analytics Boot Camp"
+                      
  
 ```
 
